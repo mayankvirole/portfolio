@@ -169,7 +169,7 @@ function App() {
             <h1>Mayank Virole</h1>
             <h2>Solution Analyst</h2>
             <p className="hero-summary">
-              Solution Analyst with 2 years of experience building Java and Spring Boot
+              Solution Analyst with 3+ years of experience building Java and Spring Boot
               applications, REST APIs, data-heavy modules, and scalable backend systems.
             </p>
 
@@ -202,7 +202,7 @@ function App() {
           </div>
           <div className="text-card">
             <p>
-              I have around 2 years of experience building and supporting software applications,
+              I have over 3 years of experience building and supporting software applications,
               with most of my work centered on Java, Spring Boot, REST APIs, relational databases, and solution delivery.
             </p>
             <p>
